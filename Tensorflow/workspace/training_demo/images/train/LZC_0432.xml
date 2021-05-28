@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF8'?>
+<annotation>
+  <folder>train</folder>
+  <filename>LZC_0432.png</filename>
+  <path>C:/tensorFlow/workspace/training_demo/images/train/LZC_0432.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Helipad</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>286</xmin>
+      <ymin>310</ymin>
+      <xmax>320</xmax>
+      <ymax>341</ymax>
+    </bndbox>
+  </object>
+</annotation>

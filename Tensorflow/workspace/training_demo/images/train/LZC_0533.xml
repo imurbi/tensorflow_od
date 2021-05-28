@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF8'?>
+<annotation>
+  <folder>Images</folder>
+  <filename>LZC_0533.png</filename>
+  <path>C:\Users\Abdul\Desktop\ML Test\helipad_detection_from_satellites - Copy\raw_data\Images\LZC_0533.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>640</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Helipad</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>5</xmin>
+      <ymin>128</ymin>
+      <xmax>37</xmax>
+      <ymax>163</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Helipad</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>277</ymin>
+      <xmax>352</xmax>
+      <ymax>337</ymax>
+    </bndbox>
+  </object>
+</annotation>
